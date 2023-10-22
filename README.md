@@ -14,6 +14,12 @@
 > mudar a mente, a forma de pensar e agir de várias pessoas, e ajudá-las a descobrir
 > <br> mais sobre a natureza, e ao mundo ao seu redor.
 
+## Metodologia
+> - HTML e CSS
+> - JavaScript
+> - Git e GitHub
+> - Figma
+
 ## Resultado Preliminares 
 > O site fornece informações sobre uma das plantas que o usuário deseja clicar na direita da página,
 > <br>também é mostrado  o nome dela, algumas curiosidades e sua importância.Nosso projeto contribui
