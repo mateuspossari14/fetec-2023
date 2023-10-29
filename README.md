@@ -19,6 +19,7 @@
 > - JavaScript
 > - Git e GitHub
 > - Figma
+> - Acesse o projeto finalizado, online (https://mateuspossari14.github.io/fetec-2023)
 
 ## Resultado Preliminares 
 > O site fornece informações sobre uma das plantas que o usuário deseja clicar na direita da página,
