@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 * {
   margin: 0;
   padding: 0;
@@ -25,9 +27,19 @@
   text-transform: uppercase;
 }
 
+.color span {
+  text-decoration: underline;
+  text-decoration-color: blue;
+  transition: 2s;
+  color: blue;
+  cursor: pointer;
+}
+
 .color span:hover {
   color: #46e652;
   transition: 1s;
+  text-decoration: none;
+  text-shadow: 2px 2px #2C4230;
 }
 
 .title-card {
